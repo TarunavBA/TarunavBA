@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**TarunavBA/TarunavBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on Python 🐍
 - 🌱 I’m currently learning everything related to python
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to vscode and python 🐍
 - 📫 How to reach me: tarunavba@gmail.com
 - ⚡ Fun fact: I like VSCode! 
--->
+
