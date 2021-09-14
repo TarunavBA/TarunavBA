@@ -10,5 +10,5 @@
 - 🤔 I’m looking for help with java ☕ and JavaScript
 - 💬 Ask me about anything related to vscode and python 🐍
 - 📫 How to reach me: tarunavba@gmail.com
-- ⚡ Fun fact: I like VSCode! 
+- ⚡ Fun fact: I like VSCode! :smiley:
 
