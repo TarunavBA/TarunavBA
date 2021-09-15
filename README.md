@@ -14,3 +14,5 @@
 
 
 ![Tarunav's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunavBA&theme=synthwave&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TarunavBA&repo=TarunavBA)](https://github.com/TarunavBA/TarunavBA)
