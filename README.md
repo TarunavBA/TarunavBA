@@ -12,3 +12,5 @@
 - 📫 How to reach me: tarunavba@gmail.com
 - ⚡ Fun fact: I like VSCode! 
 
+
+![Tarunav's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunavBA&theme=synthwave&show_icons=true)
