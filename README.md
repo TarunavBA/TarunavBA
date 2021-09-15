@@ -13,9 +13,10 @@
 - 📫 How to reach me: tarunavba@gmail.com
 - ⚡ Fun fact: I like VSCode! 
 
+**achievements:-**
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=TarunavBA&theme=onedark)](https://github.com/TarunavBA)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TarunavBA&theme=flag-india)](https://git.io/streak-stats)
+**Streak:-**
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,mysql)](https://github.com/Jurredr/github-widgetbox)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TarunavBA&theme=dark)](https://git.io/streak-stats)
