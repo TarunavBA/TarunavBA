@@ -17,4 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunavBA)]
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=TarunavBA&theme=onedark)](https://github.com/TarunavBA)
+
 
