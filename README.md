@@ -16,3 +16,5 @@
 ![Tarunav's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunavBA&theme=synthwave&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunavBA)]
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TarunavBA)](https:/
