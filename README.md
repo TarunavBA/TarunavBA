@@ -19,4 +19,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TarunavBA&theme=onedark)](https://github.com/TarunavBA)
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
+![](https://komarev.com/ghpvc/?username=TarunavBA&style=flat-square)
