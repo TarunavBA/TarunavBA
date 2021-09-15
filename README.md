@@ -2,7 +2,7 @@
 
 ### Hi there  i'm Tarunav.BA 👋
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=TarunavBA&data=followers,repositories,stars,commits)](https://github.com/TarunavBa)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=TarunavBA&data=repositories,stars,commits)](https://github.com/TarunavBa)
 
 
 - 🔭 I’m currently working on Python 🐍
@@ -12,6 +12,10 @@
 - 💬 Ask me about anything related to vscode and python 🐍
 - 📫 How to reach me: tarunavba@gmail.com
 - ⚡ Fun fact: I like VSCode! 
+
+**Watch my contributions get eaten by a snake!**
+
+![COntributions snake](https://github.com/TarunavBA/TarunavBA/blob/output/github-contribution-grid-snake.gif?raw=true)
 
 **achievements:-**
 
