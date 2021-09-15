@@ -17,7 +17,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TarunavBA&theme=flag-india)](https://git.io/streak-stats)
 
-My skills:
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,mysql)](https://github.com/Jurredr/github-widgetbox)
 
