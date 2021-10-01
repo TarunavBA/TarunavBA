@@ -12,6 +12,7 @@
 - 💬 Ask me about anything related to vscode and python 🐍
 - 📫 How to reach me: tarunavba@gmail.com
 - ⚡ Fun fact: I like VSCode! 
+- I need help in my projects is anyone willing to help please [mail](mailto: tarunavba@gmail.com) me.
 
 **Watch my contributions get eaten by a snake!**
 
