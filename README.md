@@ -11,10 +11,10 @@
 - ⚡ Fun fact: I like VSCode! 
 - I need help in my projects is anyone willing to help please [mail](mailto:tarunavba@gmail.com) me.
 
-**achievements:-**
+<div align="center">achievements:-</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TarunavBA&theme=onedark)](https://github.com/TarunavBA)
+<div align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=TarunavBA&theme=onedark)](https://github.com/TarunavBA)</div>
 
-**Streak:-**
+<div align="center">Streak:-</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TarunavBA&theme=dark)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TarunavBA&theme=dark)](https://git.io/streak-stats)</div>
