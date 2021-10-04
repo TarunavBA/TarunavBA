@@ -1,9 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=TarunavBA&style=flat-square)
 
-### Hi there  i'm Tarunav.BA 👋
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=TarunavBA&data=repositories,stars,commits)](https://github.com/TarunavBa)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&lines=Hey+there!+%F0%9F%91%8B;I+am+Tarunav.BA+%F0%9F%91%A6;I+am+a+student%2C+%F0%9F%93%96;I+am+a+python+learner%2C+%F0%9F%90%8D;I+am+a+good+contributor+%F0%9F%98%86)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Python 🐍
 - 🌱 I’m currently learning everything related to python
@@ -13,10 +10,6 @@
 - 📫 How to reach me: tarunavba@gmail.com
 - ⚡ Fun fact: I like VSCode! 
 - I need help in my projects is anyone willing to help please [mail](mailto:tarunavba@gmail.com) me.
-
-**Watch my contributions get eaten by a snake!**
-
-![COntributions snake](https://github.com/TarunavBA/TarunavBA/blob/output/github-contribution-grid-snake.gif?raw=true)
 
 **achievements:-**
 
