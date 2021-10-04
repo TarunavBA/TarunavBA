@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=TarunavBA&style=flat-square)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&lines=Hey+there!+%F0%9F%91%8B;I+am+Tarunav.BA+%F0%9F%91%A6;I+am+a+student%2C+%F0%9F%93%96;I+am+a+python+learner%2C+%F0%9F%90%8D;I+am+a+good+contributor+%F0%9F%98%86)](https://git.io/typing-svg)
 
@@ -11,10 +10,3 @@
 - ⚡ Fun fact: I like VSCode! 
 - I need help in my projects is anyone willing to help please [mail](mailto:tarunavba@gmail.com) me.
 
-<div align="center">achievements:-</div>
-
-<div align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=TarunavBA&theme=onedark)](https://github.com/TarunavBA)</div>
-
-<div align="center">Streak:-</div>
-
-<div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TarunavBA&theme=dark)](https://git.io/streak-stats)</div>
