@@ -40,6 +40,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           
           
-          SHOW_OS: "True"
-          
-          SHOW_PROJECTS: "True"
+      
