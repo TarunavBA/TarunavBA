@@ -26,5 +26,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunavBA&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-
+```text
+Python     57 mins         ███████▓░░░░░░░░░░░░░░░░░   30.79 % 
+Markdown   43 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.25 % 
+JSON       24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Other      12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+HTML       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+```
 <!--END_SECTION:waka-->
