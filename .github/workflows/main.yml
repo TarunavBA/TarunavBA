@@ -10,7 +10,7 @@ on:
 
   schedule:
 
-    - cron: "0000"
+    - cron: '0 0 * * *'
 
 jobs:
 
