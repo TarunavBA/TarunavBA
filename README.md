@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunavba" alt="tarunavba" /></a> </p>
 
-- 🔭 I’m currently working on [blog.py](https://github.com/TarunavBA/Blog.py)
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **Python, flask, django**
 
-- 👯 I’m looking to collaborate on [blog.py](https://github.com/TarunavBA/Blog.py)
+- 👯 I’m looking to collaborate on **Nothing**
 
-- 🤝 I’m looking for help with [blog.py](https://github.com/TarunavBA/Blog.py)
+- 🤝 I’m looking for help with **Typescript**
 
 - 💬 Ask me about **Python**
 
@@ -27,6 +27,5 @@
 
 
 <!--START_SECTION:waka-->
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka--
+<!--END_SECTION:waka-->
