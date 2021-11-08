@@ -29,3 +29,8 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+## My recent activity 💡
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
