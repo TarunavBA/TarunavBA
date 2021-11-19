@@ -28,7 +28,7 @@ jobs:
 
           # Your GitHub token
 
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
           # Options
 
