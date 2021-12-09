@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunavba" alt="tarunavba" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Bionic.py an opensource python web framework for pythonistas**
 
 - 🌱 I’m currently learning **Python, flask, django**
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on **Nothing since i can do it myself. 🤷‍♂️**
 
 - 🤝 I’m looking for help with **Typescript**
 
