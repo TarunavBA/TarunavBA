@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tarunavba@gmail.com**
 
-- ⚡ Fun fact **I'm an ex- python learner 😂 and currently learning web development with a like for JavaScript.**
+- ⚡ Fun fact **I've been approved my GitHub copilot and GitHub CodeSearch**
 
 
 <h3 align="left">Languages and Tools:</h3>
