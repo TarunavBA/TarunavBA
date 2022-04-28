@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [tarunavba.github.io](https://tarunavba.github.io)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Any help regarding GitHub**
 
 - 📫 How to reach me **tarunavba@gmail.com**
 
-- ⚡ Fun fact **i guess i know python that i can move to other languages**
+- ⚡ Fun fact **I am a member in [GitHub Community](https://github.community/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
