@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 All of my projects are available at [tarunavba.github.io](https://www.tarunavba.github.io)
+- 👨‍💻 All of my projects are available at [tarunavba.github.io](https://tarunavba.github.io)
 
 - 💬 Ask me about **Python**
 
